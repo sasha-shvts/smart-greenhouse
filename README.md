@@ -12,3 +12,5 @@ An automated IoT system designed to monitor and control climate conditions in a 
 1. Clone the repository and install dependencies.
 ## Usage
 Run the main script to start monitoring.
+## License
+Licensed under the MIT License.
