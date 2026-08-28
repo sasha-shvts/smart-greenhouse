@@ -1,4 +1,5 @@
 # Smart Greenhouse 🌿
+[![CI](https://github.com/sasha-shvts/smart-greenhouse/actions/workflows/ci.yml/badge.svg)](https://github.com/sasha-shvts/smart-greenhouse/actions/workflows/ci.yml)
 
 An automated IoT system designed to monitor and control climate conditions in a smart greenhouse to optimize plant growth and reduce manual intervention.
 
