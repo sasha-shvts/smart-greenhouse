@@ -5,3 +5,6 @@ An automated IoT system designed to monitor and control climate conditions in a 
 ## Features
 - **Real-time Monitoring:** Continuously tracks soil moisture, ambient air temperature, and humidity levels.
 - **Automated Control:** Triggers water pumps, LED lighting, and ventilation fans based on customized sensor thresholds.
+## Tech Stack
+- **Language:** Python 3.x
+- **Libraries:** NumPy, Pandas, PySerial
