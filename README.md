@@ -10,3 +10,5 @@ An automated IoT system designed to monitor and control climate conditions in a 
 - **Libraries:** NumPy, Pandas, PySerial
 ## Installation & Setup
 1. Clone the repository and install dependencies.
+## Usage
+Run the main script to start monitoring.
