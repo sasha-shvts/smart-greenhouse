@@ -8,3 +8,5 @@ An automated IoT system designed to monitor and control climate conditions in a 
 ## Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** NumPy, Pandas, PySerial
+## Installation & Setup
+1. Clone the repository and install dependencies.
